@@ -1,0 +1,12 @@
+{
+  "site": {
+    "id": "1",
+    "page": "http://www.foo.com/why-foo"
+  },
+  "device": {
+    "ip": "41.76.245.86"
+  },
+  "user": {
+    "id": "9cb89r"
+  }
+}
